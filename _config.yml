@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            \x2F\x22Escaping Reality\x2F\x22'
+title:            \"Escaping Reality\"
 tagline:          
 description:      'Thoughts from a crazy person'
 url:              http://brendan.berman.io
