@@ -1,23 +1,21 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown: redcarpet
+pygments: true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            \"Escaping Reality\"
-tagline:          
 description:      'Thoughts from a crazy person'
 url:              http://brendan.berman.io
 
-author:           
-  name:           'Brendan Berman'
-  url:            
+author:           'pcflmb'
+name:           'Brendan Berman'
+url:            
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          1.0.10
 
-github:           https://github.com/pcflmb
+github:  https://github.com/pcflmb
